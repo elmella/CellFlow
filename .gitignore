@@ -157,3 +157,8 @@ tests/plotting/actual_figures/
 
 # huggingface
 hub/
+
+
+/sciplex/
+
+/output/
